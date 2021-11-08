@@ -9,7 +9,7 @@ Required packages: python, opencv, numpy, argparse
 
 Steps:
 
-Step 1: Importing all the required arguments using argument parser\n
+Step 1: Importing all the required arguments using argument parser
 Step 2: Define classes for object detection and colours for bounding box
 Step 3: Loading the pre-trained model
 Step 4: Loading and Preparing image for object detection
