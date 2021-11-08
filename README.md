@@ -1,5 +1,9 @@
-# ir_object_detector
-Object Detection in IR images using pre-trained model by (https://github.com/chuanqi305/MobileNet-SSD)
+# Vehicle safety system using OpenCV and Deep Learning
+
+Goal: Detect pedestrians, animals and other vehicles in images taken from infrared camera mounted at the front of a car using pre-trained MobileNets Single Shot Detector model and alert the driver about the same to avoid accidents.
+
+
+Pre-trained model source: https://github.com/chuanqi305/MobileNet-SSD
 
 Required packages: python, opencv, numpy, argparse
 
